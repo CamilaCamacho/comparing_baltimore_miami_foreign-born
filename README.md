@@ -14,9 +14,24 @@ Exploring the Opportunity Atlas (https://www.opportunityatlas.org/) data compari
 * Website links to Opportunity Atlas and Excel files in repo
   * provides links to outside sources
 
-## Process?
-* Simple step-by-step descriptions/instructions on how you manipulated the Excel data for analysis
-  * you may also upload this as a separate document in the repository)
+## Data Analysis Step-by-Step Instructions
+### For each city:
+1. Isolate fraction of foreign born residents per tracts for each city.
+  * Copy and paste *tract* and *Foreign-Born_Share_in_2012-16* data columns into new sheet.
+2. Reformat data into table.
+  * Place cursor on any cell in data and [Edit -> Select All] (or use [Command+A] keyboard shortcut).
+  * [Insert -> Table] and make sure selected data range is correct in dialogue box before clicking *OK*.
+3. Change Number Format of *Foreign-Born_Share_in_2012-16* from _General_ to _Percentage_.
+4. Because the data is in percentages from 0% to 100%, the bins for the histogram can be divided into 5 equally sized bin ranges: <=0%, 0%-25%, 25%-50%, 50%-75%, >75%.
+  * List these _bin range_ as a cell range. 
+5. Use the *FREQUENCY* function to count the number of tracts in which percentage of foreign born residents fall in each bin range.
+  * Select cell range adjacent to bin ranges. 
+  * Array enter formula: [=FREQUENCY(Tract_Foreign_Born_Table[Foreign-Born_Share_in_2012-16], _cell range of bin range_)] then press [Ctrl+Shift+Enter].
+  * For Baltimore, it should look something like this: ![alt text](insert baltimore example here)
+6. Create histogram.
+  * Select bin ranges and frequency data and from Insert tab select *Clustered Column* chart.
+  * Right-click on any column, select *Format Data Series...* and change *Gap Width* to zero (0).
+  
 
 # Public GitHub Repo should also include:
 * Original Excel documents
