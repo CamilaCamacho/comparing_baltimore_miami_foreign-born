@@ -11,7 +11,9 @@ Exploring the Opportunity Atlas (https://www.opportunityatlas.org/) data compari
 ## Background Data 
 ### Relevant Links
 [Opportunity Atlas website link](https://www.opportunityatlas.org/)
+
 [Original CSV Document: Baltimore Tract Foreign Born](https://github.com/CamilaCamacho/comparing_baltimore_miami_foreign-born/blob/master/baltimore_shown_tract_foreign_share2016.csv)
+
 [Original CSV Document: Miami Tract Foreign Born](https://github.com/CamilaCamacho/comparing_baltimore_miami_foreign-born/blob/master/miami_shown_tract_foreign_share2016.csv)
 
 ### Data Visualization
@@ -35,7 +37,8 @@ Exploring the Opportunity Atlas (https://www.opportunityatlas.org/) data compari
 6. Create histogram.
   * Select bin ranges and frequency data and from Insert tab select *Clustered Column* chart.
   * Right-click on any column, select *Format Data Series...* and change *Gap Width* to zero (0).
-  
+
+---
 
 # Public GitHub Repo should also include:
 * Original Excel documents
