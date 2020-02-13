@@ -9,10 +9,12 @@ Exploring the Opportunity Atlas (https://www.opportunityatlas.org/) data compari
 * Evaluate and interpret what the differences and similarities in your data analysis show and how you might want to monitor your own biases if you were to develop some sort of solution for Baltimore City.
 
 ## Background Data 
-* At least one data visualization 
-   * Excel Data Visualization: Create at least one Excel chart that shows the distribution of census tract data in selected cities, compares cities’ outcomes, highlights interesting points in each cities’ data, or some other interesting measurement or metric
+### Relevant Links
 * Website links to Opportunity Atlas and Excel files in repo
   * provides links to outside sources
+### Data Visualization
+![alt text](https://github.com/CamilaCamacho/comparing_baltimore_miami_foreign-born/blob/master/Baltimore%20Histogram.png)
+![alt text](https://github.com/CamilaCamacho/comparing_baltimore_miami_foreign-born/blob/master/Miami%20Histogram.png)
 
 ## Data Analysis Step-by-Step Instructions
 ### For each city:
