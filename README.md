@@ -1,9 +1,20 @@
-# Comparing Percentage of Foreign Born Residents in Baltimore and Miami 
+# Comparing Percentage of Foreign Born Residents in Baltimore, Maryland and Miami, Florida 
 Exploring the Opportunity Atlas (https://www.opportunityatlas.org/) data comparing fraction of all residents who were born outside of the United States in 2012-2016.
-* A repository name that is descriptive of the analysis conducted
 
-## Brief Description of Findings 
-// TODO
+## Brief Description of Findings
+In the United States, the 14th Amendment of the Constitution guarantees birthright citizenship, where any child born in the US or one of its territories is granted American citizenship (some exclusions apply). Foreign-born residents can become citizens through the naturalizatoin process or through their parents by acquisition or derivation [1](https://immigration.findlaw.com/citizenship/u-s-citizenship-through-parents-or-by-birth.html). 
+
+The United States has the largest foreign-born population of any country. In 2016, foreign-born residents made up 13.5% of the total US population [2](https://www.reuters.com/article/us-usa-immigration-data/u-s-foreign-born-population-swells-to-highest-in-over-a-century-idUSKCN1LT2HZ). Immigration not only has a broadly positive effect on the economy [3](https://budgetmodel.wharton.upenn.edu/issues/2016/1/27/the-effects-of-immigration-on-the-united-states-economy), but also influences the diversity of culture, food, and art of a region. 
+By comparing the percentage of foreign born residents in census tracts across Miami and Baltimore, 
+
+
+from: https://www.census.gov/newsroom/pdf/cspan_fb_slides.pdf
+
+
+
+from: https://opportunityinsights.org/wp-content/uploads/2018/10/atlas_paper.pdf
+Share Foreign Born(2010).  The share foreign born variable that is shown in the OpportunityAtlas is constructed as the number of foreign born residents in the 2010 Census divided by the sumof native and foreign born residents (long form SF3a,  table NP021A) obtained from the NHGIS database
+
 * README that summarizes findings (less than 250 words)
 * Data Interpretation: What do your findings mean and why might this be important for you as a student and as you progress in your career? Highlight the similarities and differences in your city data analysis. Optional: tie-in examples of programs, initiatives, or policies that may work in one city but not in another.
 * Compare any outcome data results and/or visualizations at the census tract level from Baltimore City with your hometown (or city where you’ve spent or would like to spend time) 
@@ -13,11 +24,14 @@ Exploring the Opportunity Atlas (https://www.opportunityatlas.org/) data compari
 ### Relevant Links
 [Opportunity Atlas website](https://www.opportunityatlas.org/)
 
+[Census: About Foreign Born](https://www.census.gov/topics/population/foreign-born/about.html)
+
 [Original CSV Document: Baltimore Tract Foreign Born](https://github.com/CamilaCamacho/comparing_baltimore_miami_foreign-born/blob/master/baltimore_shown_tract_foreign_share2016.csv)
 
 [Original CSV Document: Miami Tract Foreign Born](https://github.com/CamilaCamacho/comparing_baltimore_miami_foreign-born/blob/master/miami_shown_tract_foreign_share2016.csv)
 
 [Analyzed Excel Document: Miami vs Baltimore](https://github.com/CamilaCamacho/comparing_baltimore_miami_foreign-born/blob/master/miami_vs_baltimore_tract_foreign_share2016.xlsx)
+
 
 ### Data Visualization
 ![alt text](https://github.com/CamilaCamacho/comparing_baltimore_miami_foreign-born/blob/master/Baltimore%20Histogram.png)
