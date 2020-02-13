@@ -10,8 +10,10 @@ Exploring the Opportunity Atlas (https://www.opportunityatlas.org/) data compari
 
 ## Background Data 
 ### Relevant Links
-* Website links to Opportunity Atlas and Excel files in repo
-  * provides links to outside sources
+[Opportunity Atlas website link](https://www.opportunityatlas.org/)
+[Original CSV Document: Baltimore Tract Foreign Born](https://github.com/CamilaCamacho/comparing_baltimore_miami_foreign-born/blob/master/baltimore_shown_tract_foreign_share2016.csv)
+[Original CSV Document: Miami Tract Foreign Born](https://github.com/CamilaCamacho/comparing_baltimore_miami_foreign-born/blob/master/miami_shown_tract_foreign_share2016.csv)
+
 ### Data Visualization
 ![alt text](https://github.com/CamilaCamacho/comparing_baltimore_miami_foreign-born/blob/master/Baltimore%20Histogram.png)
 ![alt text](https://github.com/CamilaCamacho/comparing_baltimore_miami_foreign-born/blob/master/Miami%20Histogram.png)
