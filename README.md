@@ -2,10 +2,18 @@
 Exploring the Opportunity Atlas (https://www.opportunityatlas.org/) data comparing fraction of all residents who were born outside of the United States in 2012-2016.
 
 ## Brief Description of Findings
-In the United States, the 14th Amendment of the Constitution guarantees birthright citizenship, where any child born in the US or one of its territories is granted American citizenship (some exclusions apply). Foreign-born residents can become citizens through the naturalizatoin process or through their parents by acquisition or derivation [1](https://immigration.findlaw.com/citizenship/u-s-citizenship-through-parents-or-by-birth.html). 
+In the United States, the 14th Amendment of the Constitution guarantees birthright citizenship, where any child born in the US or one of its territories is granted American citizenship (some exclusions apply). Foreign-born residents can become citizens through the naturalization in process or through their parents by acquisition or derivation [1](https://immigration.findlaw.com/citizenship/u-s-citizenship-through-parents-or-by-birth.html). 
 
 The United States has the largest foreign-born population of any country. In 2016, foreign-born residents made up 13.5% of the total US population [2](https://www.reuters.com/article/us-usa-immigration-data/u-s-foreign-born-population-swells-to-highest-in-over-a-century-idUSKCN1LT2HZ). Immigration not only has a broadly positive effect on the economy [3](https://budgetmodel.wharton.upenn.edu/issues/2016/1/27/the-effects-of-immigration-on-the-united-states-economy), but also influences the diversity of culture, food, and art of a region. 
-By comparing the percentage of foreign born residents in census tracts across Miami and Baltimore, 
+As cities, both Miami and Baltimore have a larger immigrant population than the country as a whole. 
+Miami, has an average of (---)% foreign-born residents where Baltimore has ...
+
+foreign-born residents per tract. 
+
+
+Due to ... we can infer that this means Miami has a large population of non-citizens which affects the employment opportunities overall economy. 
+
+This means that Miami is more culturally diverse than Baltimore which influences the...  
 
 
 from: https://www.census.gov/newsroom/pdf/cspan_fb_slides.pdf
