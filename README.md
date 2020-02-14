@@ -2,33 +2,11 @@
 Exploring the Opportunity Atlas (https://www.opportunityatlas.org/) data comparing fraction of all residents who were born outside of the United States in 2012-2016.
 
 ## Brief Description of Findings
-In the United States, the 14th Amendment of the Constitution guarantees birthright citizenship, where any child born in the US or one of its territories is granted American citizenship (some exclusions apply). Foreign-born residents can become citizens through the naturalization in process or through their parents by acquisition or derivation [1](https://immigration.findlaw.com/citizenship/u-s-citizenship-through-parents-or-by-birth.html). 
-
-The United States has the largest foreign-born population of any country. In 2016, foreign-born residents made up 13.5% of the total US population [2](https://www.reuters.com/article/us-usa-immigration-data/u-s-foreign-born-population-swells-to-highest-in-over-a-century-idUSKCN1LT2HZ). Immigration not only has a broadly positive effect on the economy [3](https://budgetmodel.wharton.upenn.edu/issues/2016/1/27/the-effects-of-immigration-on-the-united-states-economy), but also influences the diversity of culture, food, and art of a region. 
-As major cities, both Miami and Baltimore have a larger immigrant population than the country as a whole. 
-Miami, has an average of (---)% foreign-born residents per tract in comparison to Baltimore's (---)%.
-Due to this we can infer that Miami has a higher percentage of non-citizens, influencing employment opportunities and overall economy. 
-
-
-foreign-born residents per tract. 
-
-
-Due to ... we can infer that this means Miami has a large population of non-citizens which affects the employment opportunities overall economy. 
-
-This means that Miami is more culturally diverse than Baltimore which influences the...  
-
-
-from: https://www.census.gov/newsroom/pdf/cspan_fb_slides.pdf
-
-
-
-from: https://opportunityinsights.org/wp-content/uploads/2018/10/atlas_paper.pdf
-Share Foreign Born(2010).  The share foreign born variable that is shown in the OpportunityAtlas is constructed as the number of foreign born residents in the 2010 Census divided by the sumof native and foreign born residents (long form SF3a,  table NP021A) obtained from the NHGIS database
-
-* README that summarizes findings (less than 250 words)
-* Data Interpretation: What do your findings mean and why might this be important for you as a student and as you progress in your career? Highlight the similarities and differences in your city data analysis. Optional: tie-in examples of programs, initiatives, or policies that may work in one city but not in another.
-* Compare any outcome data results and/or visualizations at the census tract level from Baltimore City with your hometown (or city where you’ve spent or would like to spend time) 
-* Evaluate and interpret what the differences and similarities in your data analysis show and how you might want to monitor your own biases if you were to develop some sort of solution for Baltimore City.
+The United States has the largest foreign-born population of any country. In 2016, foreign-born residents made up 13.5% of the total US population [(1)](https://www.reuters.com/article/us-usa-immigration-data/u-s-foreign-born-population-swells-to-highest-in-over-a-century-idUSKCN1LT2HZ). Immigration not only has a broadly positive effect on the economy [(2)](https://budgetmodel.wharton.upenn.edu/issues/2016/1/27/the-effects-of-immigration-on-the-united-states-economy), but also influences the diversity of culture, food, and art of a region. 
+With an average of 10% foreign-born residents per tract, Baltimore has a smaller immigrant population than the country as a whole. Miami, on the other hand has a much higher immigration population with an average 55% foreign-born residents per tract.
+In the histagrams below, it is clear that Miami has many more tracts with a higher percentage of immigrants than Baltimore.
+From this we can infer that Miami is more culturally diverse than Baltimore and that Miami might benefit more in the positive economical influence of immigration. This can also influence what political inititatives and policies are seen as important. For example, immigration and path to citizenship policies are much more important in Miami than in Baltimore because the population is more affected by these policies. 
+As someone who was not born in the US, understanding the general demographics and level of diversity of a city is helpful because it gives insights into the size and strength of diverse cultural communities and the political leverage they might have. 
 
 ## Background Data 
 ### Relevant Links
@@ -42,6 +20,8 @@ Share Foreign Born(2010).  The share foreign born variable that is shown in the 
 
 [Analyzed Excel Document: Miami vs Baltimore](https://github.com/CamilaCamacho/comparing_baltimore_miami_foreign-born/blob/master/miami_vs_baltimore_tract_foreign_share2016.xlsx)
 
+[Share Foreign Born Variable](https://opportunityinsights.org/wp-content/uploads/2018/10/atlas_paper.pdf):
+Share Foreign Born(2010).  The share foreign born variable that is shown in the OpportunityAtlas is constructed as the number of foreign born residents in the 2010 Census divided by the sumof native and foreign born residents (long form SF3a,  table NP021A) obtained from the NHGIS database
 
 ### Data Visualization
 ![alt text](https://github.com/CamilaCamacho/comparing_baltimore_miami_foreign-born/blob/master/Baltimore%20Histogram.png)
