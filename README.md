@@ -2,9 +2,11 @@
 Exploring the Opportunity Atlas (https://www.opportunityatlas.org/) data comparing fraction of all residents who were born outside of the United States in 2012-2016.
 
 ## Brief Description of Findings
-The United States has the largest foreign-born population of any country. In 2016, foreign-born residents made up 13.5% of the total US population [(1)](https://www.reuters.com/article/us-usa-immigration-data/u-s-foreign-born-population-swells-to-highest-in-over-a-century-idUSKCN1LT2HZ). Immigration not only has a broadly positive effect on the economy [(2)](https://budgetmodel.wharton.upenn.edu/issues/2016/1/27/the-effects-of-immigration-on-the-united-states-economy), but also influences the diversity of culture, food, and art of a region. 
+The US has the largest foreign-born population of any country. In 2016, foreign-born residents made up 13.5% of the total US population [(1)](https://www.reuters.com/article/us-usa-immigration-data/u-s-foreign-born-population-swells-to-highest-in-over-a-century-idUSKCN1LT2HZ). Immigration have a broadly positive effect on the economy [(2)](https://budgetmodel.wharton.upenn.edu/issues/2016/1/27/the-effects-of-immigration-on-the-united-states-economy), and influence the diversity of culture, food, and art of a region. 
+
 With an average of 10% foreign-born residents per tract, Baltimore has a smaller immigrant population than the country as a whole. Miami, on the other hand has a much higher immigration population with an average 55% foreign-born residents per tract.
-In the histagrams below, it is clear that Miami has many more tracts with a higher percentage of immigrants than Baltimore.
+In the histagrams below, it is clear that Miami has many more tracts with a higher percentage of immigrants than Baltimore. Baltimore has almost 400 tracts with 0%-25% foreign-born residents, only about 16 tracts have more than that but none exceeding 50%. Comparitively, a majority of tracts in Miami a population of 50%-75% foreign-born residents.
+
 From this we can infer that Miami is more culturally diverse than Baltimore and that Miami might benefit more in the positive economical influence of immigration. This can also influence what political inititatives and policies are seen as important. For example, immigration and path to citizenship policies are much more important in Miami than in Baltimore because the population is more affected by these policies. 
 As someone who was not born in the US, understanding the general demographics and level of diversity of a city is helpful because it gives insights into the size and strength of diverse cultural communities and the political leverage they might have. 
 
